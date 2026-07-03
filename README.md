@@ -6,9 +6,9 @@ Notes for D&D 5E Lost Mines of Phandelver.
 
  The goal is to add, update, and share notes from the DM and players about the characters, the events, and the world itself. Think of it like a wiki for the game. 
 
-A good start is to expand on your character profiles. Your characters are part of the world. There may be places, people, and events in their lives that you want to note down and share with your party. Think about how they became adventurers, how they met, and why they're all going to [Phandalin](Sword%20Coast/Phandalin).
+A good start is to expand on your character profiles. Your characters are part of the world. There may be places, people, and events in their lives that you want to note down and share with your party. Think about how they became adventurers, how they met, and why they're all going to [Phandalin](Sword%20Coast/Phandalin.md).
 
-(also if you can upload your character sheets in the [Character Sheets](Player%20Characters/Character%20Sheets/README) folder, that would be appreciated)
+(also if you can upload your character sheets in the [Character Sheets](Player%20Characters/Character%20Sheets/README.md) folder, that would be appreciated)
 
 ## Player Characters
 
