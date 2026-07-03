@@ -4,4 +4,4 @@ A spry 72 year old halfling who is busy getting his Anthropology Masters degree 
 
 His time immersed in dwarven culture has allowed him to discover a new side of him (barbarian). In an ideal world people would talk things out like civilized folk, but Perrin is not too naïve to be caught in idealism, and won't shy away from violence when it comes down to it. Sometimes the cure to hard heads is a harder fist.
 
-[Back to README](README)
+[Back to README](../README)
