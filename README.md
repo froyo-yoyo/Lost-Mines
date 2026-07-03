@@ -13,8 +13,8 @@ A good start is to expand on your character profiles. Your characters are part o
 ## Player Characters
 
 - [Perin the Barbarian](Player%20Characters/Perrin%20Coffeebean.md)
-- [Murmur the Sorcerer](Player%20Characters/Murmur%20the%20Sorcerer)
-- [The Bard](Player%20Characters/The%20Bard)
-- [The Druid](Player%20Characters/The%20Druid)
-- [The Ranger](Player%20Characters/The%20Ranger)
-- [The Fighter](Player%20Characters/The%20Fighter)
+- [Murmur the Sorcerer](Player%20Characters/Murmur%20the%20Sorcerer.md)
+- [The Bard](Player%20Characters/The%20Bard.md)
+- [The Druid](Player%20Characters/The%20Druid.md)
+- [The Ranger](Player%20Characters/The%20Ranger.md)
+- [The Fighter](Player%20Characters/The%20Fighter.md)
