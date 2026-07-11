@@ -14,6 +14,6 @@ Perrin remembers none of this the next morning but doesn't want to hurt his feel
 
 ### Gundren Rockseeker
 
-Gundren is the one who gave Perrin a new lead to his research, and asked him to join the expedition in finding the [Forge of Spells](../Sword%20Coast/Forge%20of%20Spells.md). He also helped Perrin get Duncan a mentor, [Sildar Hallwinter](../Characters/Sildar%20Hallwinter).
+[Gundren](../Characters/Gundren%20Rockseeker.md) is the one who gave Perrin a new lead to his research, and asked him to join the expedition in finding the [Forge of Spells](../Sword%20Coast/Forge%20of%20Spells.md). He also helped Perrin get Duncan a mentor, [Sildar Hallwinter](../Characters/Sildar%20Hallwinter.md).
 
 [Back to README](../README.md)
